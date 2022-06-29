@@ -1,7 +1,6 @@
 # Customer-Accept-the-Coupon
 
-Author	date
-Arasu	6/28/2022
+Author : Arasu date : 6/28/2022
 
 Introduction
          This data was collected via a survey on Amazon Mechanical Turk. The survey describes different driving scenarios including the destination, current time, weather, passenger, etc., and then ask the person whether he will accept the coupon if he is the driver. I will apply this data set to train a supervised machine learning model to predict in what situation the drive will accept the coupon.
